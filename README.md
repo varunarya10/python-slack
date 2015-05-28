@@ -17,4 +17,4 @@ python -m slackmon.get_history  generate_data xoxp-3000911101-3529492522 G046CBW
 
 
 
-python -m slackdata.get_history  generate_excel xoxp-3000911101-3529492522 G046CBWFV "22-05-2015" "28-05-2015"
+python -m slackmon.get_history  generate_excel xoxp-3000911101-3529492522 G046CBWFV "22-05-2015" "28-05-2015"
